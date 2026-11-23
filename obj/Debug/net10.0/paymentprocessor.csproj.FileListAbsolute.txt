@@ -1,0 +1,15 @@
+/workspaces/paymentprocessor/obj/Debug/net10.0/paymentprocessor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/paymentprocessor/obj/Debug/net10.0/paymentprocessor.AssemblyInfoInputs.cache
+/workspaces/paymentprocessor/obj/Debug/net10.0/paymentprocessor.AssemblyInfo.cs
+/workspaces/paymentprocessor/obj/Debug/net10.0/paymentprocessor.csproj.CoreCompileInputs.cache
+/workspaces/paymentprocessor/obj/Debug/net10.0/paymentprocessor.sourcelink.json
+/workspaces/paymentprocessor/bin/Debug/net10.0/paymentprocessor
+/workspaces/paymentprocessor/bin/Debug/net10.0/paymentprocessor.deps.json
+/workspaces/paymentprocessor/bin/Debug/net10.0/paymentprocessor.runtimeconfig.json
+/workspaces/paymentprocessor/bin/Debug/net10.0/paymentprocessor.dll
+/workspaces/paymentprocessor/bin/Debug/net10.0/paymentprocessor.pdb
+/workspaces/paymentprocessor/obj/Debug/net10.0/paymentprocessor.dll
+/workspaces/paymentprocessor/obj/Debug/net10.0/refint/paymentprocessor.dll
+/workspaces/paymentprocessor/obj/Debug/net10.0/paymentprocessor.pdb
+/workspaces/paymentprocessor/obj/Debug/net10.0/paymentprocessor.genruntimeconfig.cache
+/workspaces/paymentprocessor/obj/Debug/net10.0/ref/paymentprocessor.dll
